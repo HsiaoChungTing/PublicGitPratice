@@ -1,3 +1,3 @@
 # PublicGitPratice
-main first Commit 
+main first Commit  
 hellobranch first Commit
